@@ -10,7 +10,6 @@
 
 My name is Alex and I'm a back-end developer.
 
- Technical Skill:
  - 10+ years: Java, SQL, JavaScript, HTML and CSS.
  - 5+ years: Python, Linux, Java EE Applications Servers and Database Management Systems (DBMS).
  - 2+ years: Amazon Web Services (AWS), Docker and other Devops Tools.
