@@ -6,11 +6,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexlirioti@gmail.com)](mailto:alexlirioti@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alexlirio/)](https://www.instagram.com/alexlirio/)
 
-### Hellooo! 👋 Welcome to my profile
+### Hello! Welcome to my GitHub.
 
-My name is Alex and I'm back-end developer.
+My name is Alex and I'm a back-end developer.
 
- - 💙 In love with Java
- - 🌱 Currently learning Angular and React
- - 😄 Also front-end developer
- - ⚡ @alexlirio on instagram: tips for travel and technology
+ Technical Skill:
+ - 10+ years: Java, SQL, JavaScript, HTML and CSS.
+ - 5+ years: Python, Linux, Java EE Applications Servers and Database Management Systems (DBMS).
+ - 2+ years: Amazon Web Services (AWS), Docker and other Devops Tools.
