@@ -8,7 +8,7 @@
 
 ### Hello! Welcome to my GitHub.
 
-My name is Alex and I'm a back-end developer.
+My name is Alex and I'm a full stack developer passionate about new technologies that helps to create products and solutions to empower humanity.
 
  - 10+ years: Java, SQL, JavaScript, HTML and CSS.
  - 5+ years: Python, Linux, Java EE Applications Servers and Database Management Systems (DBMS).
