@@ -1,6 +1,6 @@
 # Alex Lirio :man_technologist:
 
-[![Chrome Badge](https://img.shields.io/badge/-Site-000?style=flat-square&logo=google-chrome&logoColor=white&link=https://alexlirio.github.io)](https://alexlirio.github.io)
+[![Chrome Badge](https://img.shields.io/badge/-Webpage-000?style=flat-square&logo=google-chrome&logoColor=white&link=https://alexlirio.github.io)](https://alexlirio.github.io)
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexlirio)](https://github.com/alexlirio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexlirio/)](https://www.linkedin.com/in/alexlirio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alexlirio)](https://twitter.com/alexlirio)
